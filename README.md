@@ -135,7 +135,9 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 
 '''
 Output:
+
 ![image](https://github.com/Harsayazheni/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118708467/2aaa84d2-924d-40ff-830b-9aea906d2a3e)
 
 Result:
+
 Thus, the first come first serve scheduling algorithm is implemented successfully.
