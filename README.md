@@ -136,7 +136,7 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 '''
 Output:
 
-![image](https://github.com/Harsayazheni/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118708467/2aaa84d2-924d-40ff-830b-9aea906d2a3e)
+![image](https://github.com/Harsayazheni/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118708467/a667c592-6abd-41ae-b97c-dff48e236c3c)
 
 Result:
 
