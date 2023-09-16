@@ -1,5 +1,4 @@
 ## EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
-
 Aim:
 
 To implement the first come first serve scheduling algorithm
